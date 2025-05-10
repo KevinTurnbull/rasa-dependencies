@@ -1,1 +1,1 @@
-# rasa-dependences
+I have a project that uses Rasa - but has a bunch of internal edits to get features that the Rasa team abandoned working again. This repo is just to put all the dependencies in one place so they can be pulled in by requirements.txt
